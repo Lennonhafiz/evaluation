@@ -1,0 +1,15 @@
+.nav{
+    background-color: aqua;
+    padding: 20px;
+    text-align: right;
+    display: float;
+    flex-direction: row;
+  
+
+}
+.list{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    list-style: none;
+}
